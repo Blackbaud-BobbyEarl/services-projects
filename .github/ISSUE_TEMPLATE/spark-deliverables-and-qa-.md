@@ -1,6 +1,6 @@
 ---
 name: 'Spark Deliverables and QA '
-about: Step by step guide for deliverables and QA for spark reproduction in BBNC
+about: Net Community Spark reproduction step by step guide for deliverables and QA
 
 ---
 
